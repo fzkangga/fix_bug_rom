@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: HvHtymWHGr83qJqrklagDR3q4io=
